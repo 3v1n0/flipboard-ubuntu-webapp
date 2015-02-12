@@ -1,0 +1,10 @@
+[
+        {
+                "protocol": "http",
+                "domain-suffix": "flipboard.com"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "flipboard.com"
+        }
+]

@@ -1,0 +1,16 @@
+{
+    "description": "Flipboard (webapp version)",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "all",
+    "hooks": {
+        "webapp-flipboard": {
+            "desktop": "webapp-flipboard.desktop",
+            "apparmor": "webapp-flipboard.json",
+            "urls": "flipboard.url-dispatcher"
+        }
+    },
+    "maintainer": "Marco Trevisan <marco@ubuntu.com>",
+    "name": "com.ubuntu.developer.marco.webapp-flipboard",
+    "title": "Flipboard",
+    "version": "1.0.0"
+}
